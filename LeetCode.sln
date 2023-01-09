@@ -3,32 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord_58", "LengthOfLastWord\LengthOfLastWord_58.csproj", "{2D1B6653-FFFE-4109-8869-7FD4B499FC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{F3AA8C68-5654-41BE-9CBA-68DC0AD99C51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{F3AA8C68-5654-41BE-9CBA-68DC0AD99C51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber_9", "PalindromeNumber_9\PalindromeNumber_9.csproj", "{8BE2BCFC-707C-49BA-B87A-1D82A474A895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber_9", "PalindromeNumber_9\PalindromeNumber_9.csproj", "{8BE2BCFC-707C-49BA-B87A-1D82A474A895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger_13", "RomanToInteger_13\RomanToInteger_13.csproj", "{18722F61-B7FB-4FAF-80AF-1CE2ADD12D8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger_13", "RomanToInteger_13\RomanToInteger_13.csproj", "{18722F61-B7FB-4FAF-80AF-1CE2ADD12D8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix_14", "LongestCommonPrefix_14\LongestCommonPrefix_14.csproj", "{7341C6E8-5401-4373-934B-FACD02E2D465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix_14", "LongestCommonPrefix_14\LongestCommonPrefix_14.csproj", "{7341C6E8-5401-4373-934B-FACD02E2D465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses_20", "ValidParentheses_20\ValidParentheses_20.csproj", "{2EBD24EC-D33B-4D86-89BF-30E212DDCBD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses_20", "ValidParentheses_20\ValidParentheses_20.csproj", "{2EBD24EC-D33B-4D86-89BF-30E212DDCBD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoLists_21", "MergeTwoLists_21\MergeTwoLists_21.csproj", "{5445D1D3-5A81-49C1-AC80-96C7EEF16C67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists_21", "MergeTwoLists_21\MergeTwoLists_21.csproj", "{5445D1D3-5A81-49C1-AC80-96C7EEF16C67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList_26", "RemoveDuplicatesFromSortedList_26\RemoveDuplicatesFromSortedList_26.csproj", "{E12BFB8E-FFFE-4FDB-BAB0-AF904D6C1578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedList_26", "RemoveDuplicatesFromSortedList_26\RemoveDuplicatesFromSortedList_26.csproj", "{E12BFB8E-FFFE-4FDB-BAB0-AF904D6C1578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement_27", "RemoveElement_27\RemoveElement_27.csproj", "{E0D832D8-0910-4388-B0AE-3BA4DE31023E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement_27", "RemoveElement_27\RemoveElement_27.csproj", "{E0D832D8-0910-4388-B0AE-3BA4DE31023E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition_35", "SearchInsertPosition_35\SearchInsertPosition_35.csproj", "{FA69A73C-D615-44BE-93FF-609FE56F47BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition_35", "SearchInsertPosition_35\SearchInsertPosition_35.csproj", "{FA69A73C-D615-44BE-93FF-609FE56F47BE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne_66", "PlusOne_66\PlusOne_66.csproj", "{83C713A0-6D1F-4DE6-AB11-F25B893A9E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne_66", "PlusOne_66\PlusOne_66.csproj", "{83C713A0-6D1F-4DE6-AB11-F25B893A9E86}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87ED6573-F566-405B-8244-0AF8FFBDFEBE}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord_58", "LengthOfLastWord_58\LengthOfLastWord_58.csproj", "{2429E4A6-705F-4B13-9178-2F540865601D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary_67", "AddBinary_67\AddBinary_67.csproj", "{A0979281-E685-4CC0-B702-437DBE61A302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,10 +38,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D1B6653-FFFE-4109-8869-7FD4B499FC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D1B6653-FFFE-4109-8869-7FD4B499FC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D1B6653-FFFE-4109-8869-7FD4B499FC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D1B6653-FFFE-4109-8869-7FD4B499FC77}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3AA8C68-5654-41BE-9CBA-68DC0AD99C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F3AA8C68-5654-41BE-9CBA-68DC0AD99C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AA8C68-5654-41BE-9CBA-68DC0AD99C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -80,6 +78,14 @@ Global
 		{83C713A0-6D1F-4DE6-AB11-F25B893A9E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C713A0-6D1F-4DE6-AB11-F25B893A9E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C713A0-6D1F-4DE6-AB11-F25B893A9E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2429E4A6-705F-4B13-9178-2F540865601D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2429E4A6-705F-4B13-9178-2F540865601D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2429E4A6-705F-4B13-9178-2F540865601D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2429E4A6-705F-4B13-9178-2F540865601D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0979281-E685-4CC0-B702-437DBE61A302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0979281-E685-4CC0-B702-437DBE61A302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0979281-E685-4CC0-B702-437DBE61A302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0979281-E685-4CC0-B702-437DBE61A302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
