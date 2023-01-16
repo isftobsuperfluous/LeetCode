@@ -16,15 +16,6 @@ class TreeNode
 		this.right = right;
 	}
 
-	//foreach (var firstTreeNodeValue in firstTreeNodeValues.values)
-	//{
-	//	Console.WriteLine(firstTreeNodeValue);
-	//}
-	//foreach (var secondTreeNodeValue in secondTreeNodeValues.values)
-	//{
-	//	Console.WriteLine(secondTreeNodeValue);
-	//}
-
 	public static bool IsSameTree(TreeNode p, TreeNode q)
 	{
 		var firstTreeNodeValues = TreeTraversal(p);
