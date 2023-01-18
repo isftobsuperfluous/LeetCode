@@ -50,11 +50,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepthOfBinaryTree_10
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSortedArrayToBinarySearchTree_108", "ConvertSortedArrayToBinarySearchTree_108\ConvertSortedArrayToBinarySearchTree_108.csproj", "{B591D480-82FF-4167-B287-FFECF2E6C050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree_110", "BalancedBinaryTree_110\BalancedBinaryTree_110.csproj", "{5A27532C-1220-4A57-B996-3659B71BFA25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBinaryTree_110", "BalancedBinaryTree_110\BalancedBinaryTree_110.csproj", "{5A27532C-1220-4A57-B996-3659B71BFA25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDepthOfBinaryTree_111", "MinimumDepthOfBinaryTree_111\MinimumDepthOfBinaryTree_111.csproj", "{0A9454F5-5826-4DD0-BE97-DC91963B14A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDepthOfBinaryTree_111", "MinimumDepthOfBinaryTree_111\MinimumDepthOfBinaryTree_111.csproj", "{0A9454F5-5826-4DD0-BE97-DC91963B14A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle_118", "PascalTriangle_118\PascalTriangle_118.csproj", "{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle_118", "PascalTriangle_118\PascalTriangle_118.csproj", "{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock_121", "BestTimeToBuyAndSellStock_121\BestTimeToBuyAndSellStock_121.csproj", "{2F6B7845-C157-488F-9AE7-090556D15F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome_125", "ValidPalindrome_125\ValidPalindrome_125.csproj", "{2422E55C-2447-41A7-8BA3-FAB28727656B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber_136", "SingleNumber_136\SingleNumber_136.csproj", "{FD07E213-118A-4664-B93A-D37132BEBDBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -158,6 +164,18 @@ Global
 		{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6B7845-C157-488F-9AE7-090556D15F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6B7845-C157-488F-9AE7-090556D15F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6B7845-C157-488F-9AE7-090556D15F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6B7845-C157-488F-9AE7-090556D15F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2422E55C-2447-41A7-8BA3-FAB28727656B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2422E55C-2447-41A7-8BA3-FAB28727656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2422E55C-2447-41A7-8BA3-FAB28727656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2422E55C-2447-41A7-8BA3-FAB28727656B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

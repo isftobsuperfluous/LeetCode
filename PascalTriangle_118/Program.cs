@@ -23,7 +23,7 @@ IList<IList<int>> Generate(int numRows)
 	{
 		return new List<IList<int>>() { new[] { 1 }, new[] { 1, 1 } };
 	}
-
+	//AFK
 	var rows = 3;
 	var result = new List<IList<int>>() { new[] { 1 }, new[] { 1, 1 } };
 	var prevRowIndex = 1;
