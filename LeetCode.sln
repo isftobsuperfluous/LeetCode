@@ -56,11 +56,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDepthOfBinaryTree_11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle_118", "PascalTriangle_118\PascalTriangle_118.csproj", "{72EC1AB7-D44D-48DC-AE7D-A742D9380B69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock_121", "BestTimeToBuyAndSellStock_121\BestTimeToBuyAndSellStock_121.csproj", "{2F6B7845-C157-488F-9AE7-090556D15F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock_121", "BestTimeToBuyAndSellStock_121\BestTimeToBuyAndSellStock_121.csproj", "{2F6B7845-C157-488F-9AE7-090556D15F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome_125", "ValidPalindrome_125\ValidPalindrome_125.csproj", "{2422E55C-2447-41A7-8BA3-FAB28727656B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPalindrome_125", "ValidPalindrome_125\ValidPalindrome_125.csproj", "{2422E55C-2447-41A7-8BA3-FAB28727656B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber_136", "SingleNumber_136\SingleNumber_136.csproj", "{FD07E213-118A-4664-B93A-D37132BEBDBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber_136", "SingleNumber_136\SingleNumber_136.csproj", "{FD07E213-118A-4664-B93A-D37132BEBDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle_141", "LinkedListCycle_141\LinkedListCycle_141.csproj", "{6500C74E-7278-4352-805F-6FFB9B6469A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoLinkedLists_160", "IntersectionOfTwoLinkedLists_160\IntersectionOfTwoLinkedLists_160.csproj", "{DEDCE63F-E286-4608-BA42-CACF9E736A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement_169", "MajorityElement_169\MajorityElement_169.csproj", "{5285C708-5467-4C5A-8045-A95A422E74B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -176,6 +182,18 @@ Global
 		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD07E213-118A-4664-B93A-D37132BEBDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6500C74E-7278-4352-805F-6FFB9B6469A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6500C74E-7278-4352-805F-6FFB9B6469A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6500C74E-7278-4352-805F-6FFB9B6469A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6500C74E-7278-4352-805F-6FFB9B6469A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDCE63F-E286-4608-BA42-CACF9E736A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDCE63F-E286-4608-BA42-CACF9E736A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDCE63F-E286-4608-BA42-CACF9E736A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDCE63F-E286-4608-BA42-CACF9E736A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5285C708-5467-4C5A-8045-A95A422E74B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5285C708-5467-4C5A-8045-A95A422E74B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5285C708-5467-4C5A-8045-A95A422E74B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5285C708-5467-4C5A-8045-A95A422E74B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
