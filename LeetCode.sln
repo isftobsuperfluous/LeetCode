@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses_20", "Vali
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoLists_21", "MergeTwoLists_21\MergeTwoLists_21.csproj", "{5445D1D3-5A81-49C1-AC80-96C7EEF16C67}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList_26", "RemoveDuplicatesFromSortedList_26\RemoveDuplicatesFromSortedList_26.csproj", "{E12BFB8E-FFFE-4FDB-BAB0-AF904D6C1578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray_26", "RemoveDuplicatesFromSortedList_26\RemoveDuplicatesFromSortedArray_26.csproj", "{E12BFB8E-FFFE-4FDB-BAB0-AF904D6C1578}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement_27", "RemoveElement_27\RemoveElement_27.csproj", "{E0D832D8-0910-4388-B0AE-3BA4DE31023E}"
 EndProject
@@ -86,11 +86,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram_242", "ValidAn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber_268", "MissingNumber_268\MissingNumber_268.csproj", "{3A71DD5B-A9E0-49BD-AB6D-308F08DF120D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes_283", "MoveZeroes_283\MoveZeroes_283.csproj", "{5233B794-AF14-4AC7-BAC0-3BF3CCE7C3EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes_283", "MoveZeroes_283\MoveZeroes_283.csproj", "{5233B794-AF14-4AC7-BAC0-3BF3CCE7C3EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree_326", "PowerOfThree_326\PowerOfThree_326.csproj", "{E2E0B51A-7002-43AD-A403-60FA0D0593B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerOfThree_326", "PowerOfThree_326\PowerOfThree_326.csproj", "{E2E0B51A-7002-43AD-A403-60FA0D0593B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString_344", "ReverseString_344\ReverseString_344.csproj", "{465298C5-3343-411E-ACA5-621FD6057731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString_344", "ReverseString_344\ReverseString_344.csproj", "{465298C5-3343-411E-ACA5-621FD6057731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArraysII_350", "IntersectionOfTwoArraysII_350\IntersectionOfTwoArraysII_350.csproj", "{FE825D2F-B15C-4E94-8C70-01487C5954D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInString_387", "FirstUniqueCharacterInString_387\FirstUniqueCharacterInString_387.csproj", "{77F402E0-A8FB-400C-A45A-23BE98B61319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz_412", "FizzBuzz_412\FizzBuzz_412.csproj", "{555BB70B-0F3B-4FBE-9098-EFDDA1FEE286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -266,6 +272,18 @@ Global
 		{465298C5-3343-411E-ACA5-621FD6057731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465298C5-3343-411E-ACA5-621FD6057731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465298C5-3343-411E-ACA5-621FD6057731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE825D2F-B15C-4E94-8C70-01487C5954D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE825D2F-B15C-4E94-8C70-01487C5954D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE825D2F-B15C-4E94-8C70-01487C5954D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE825D2F-B15C-4E94-8C70-01487C5954D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F402E0-A8FB-400C-A45A-23BE98B61319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F402E0-A8FB-400C-A45A-23BE98B61319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F402E0-A8FB-400C-A45A-23BE98B61319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F402E0-A8FB-400C-A45A-23BE98B61319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555BB70B-0F3B-4FBE-9098-EFDDA1FEE286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555BB70B-0F3B-4FBE-9098-EFDDA1FEE286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555BB70B-0F3B-4FBE-9098-EFDDA1FEE286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555BB70B-0F3B-4FBE-9098-EFDDA1FEE286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
