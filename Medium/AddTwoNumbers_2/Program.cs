@@ -13,9 +13,10 @@
 
 var ll1 = new ListNode(9);
 ll1.next = new ListNode(9);
-ll1.next.next = new ListNode(1);
+ll1.next.next = new ListNode(9);
 
-var ll2 = new ListNode(1);
+var ll2 = new ListNode(9);
+ll2.next = new ListNode(9);
 
 var result = ListNode.AddTwoNumbers(ll1, ll2);
 var current = result;

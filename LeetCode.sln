@@ -8,9 +8,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers_2", "Medium\AddTwoNumbers_2\AddTwoNumbers_2.csproj", "{387DB167-6FDB-4F98-83EE-C964C35C1F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoNumbers_2", "Medium\AddTwoNumbers_2\AddTwoNumbers_2.csproj", "{387DB167-6FDB-4F98-83EE-C964C35C1F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters_3", "Medium\LongestSubstringWithoutRepeatingCharacters_3\LongestSubstringWithoutRepeatingCharacters_3.csproj", "{C2F7ADC1-0F2B-49AA-8813-2D9C2E8492B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters_3", "Medium\LongestSubstringWithoutRepeatingCharacters_3\LongestSubstringWithoutRepeatingCharacters_3.csproj", "{C2F7ADC1-0F2B-49AA-8813-2D9C2E8492B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicString_5", "Medium\LongestPalindromicString_5\LongestPalindromicString_5.csproj", "{935E7B8C-ED5A-4F81-84F2-104BB84262A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger_7", "Medium\ReverseInteger_7\ReverseInteger_7.csproj", "{66061F1A-92EE-41AF-BD93-4CDA78847183}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,14 @@ Global
 		{C2F7ADC1-0F2B-49AA-8813-2D9C2E8492B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F7ADC1-0F2B-49AA-8813-2D9C2E8492B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F7ADC1-0F2B-49AA-8813-2D9C2E8492B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935E7B8C-ED5A-4F81-84F2-104BB84262A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935E7B8C-ED5A-4F81-84F2-104BB84262A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935E7B8C-ED5A-4F81-84F2-104BB84262A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935E7B8C-ED5A-4F81-84F2-104BB84262A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66061F1A-92EE-41AF-BD93-4CDA78847183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66061F1A-92EE-41AF-BD93-4CDA78847183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66061F1A-92EE-41AF-BD93-4CDA78847183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66061F1A-92EE-41AF-BD93-4CDA78847183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
