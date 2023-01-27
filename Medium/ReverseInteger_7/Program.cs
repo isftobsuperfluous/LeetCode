@@ -31,3 +31,4 @@ int ReverseGoodSolution(int x)
 
 	return int.TryParse(new string(chars), out int result) ? result : 0;
 }
+
