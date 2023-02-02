@@ -1,4 +1,6 @@
-﻿public class Solution
+﻿Console.WriteLine(new Solution().MyAtoi("_____________________+-42"));
+
+public class Solution
 {
 	public int MyAtoi(string str)
 	{
