@@ -28,11 +28,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings_205", "Ea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicateII_219", "Easy\ContainsDuplicateII_219\ContainsDuplicateII_219.csproj", "{1BEE5ADF-4CB9-4881-868C-0E6B7CD56D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum_112", "Easy\PathSum_112\PathSum_112.csproj", "{3A748726-BAE2-49CB-B9F9-984E5A84506B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathSum_112", "Easy\PathSum_112\PathSum_112.csproj", "{3A748726-BAE2-49CB-B9F9-984E5A84506B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangeII_119", "Easy\PascalTriangeII_119\PascalTriangeII_119.csproj", "{532F79EA-BBB3-4EAC-A1E2-C9BCED5A5488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangeII_119", "Easy\PascalTriangeII_119\PascalTriangeII_119.csproj", "{532F79EA-BBB3-4EAC-A1E2-C9BCED5A5488}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeFromEndOfLinkedList_19", "Medium\RemoveNthNodeFromEndOfLinkedList_19\RemoveNthNodeFromEndOfLinkedList_19.csproj", "{C3E11168-510F-4E24-B627-DB0E09E7AFEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthNodeFromEndOfLinkedList_19", "Medium\RemoveNthNodeFromEndOfLinkedList_19\RemoveNthNodeFromEndOfLinkedList_19.csproj", "{C3E11168-510F-4E24-B627-DB0E09E7AFEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateParentheses_22", "Medium\GenerateParentheses_22\GenerateParentheses_22.csproj", "{2DC0ED64-25E0-4CA9-8E5E-08D160B77D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIndexOfFirstOccurenceInString_28", "Medium\FindIndexOfFirstOccurenceInString_28\FindIndexOfFirstOccurenceInString_28.csproj", "{3371A742-6F54-44CF-8948-BE454C8A475E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray_33", "Medium\SearchInRotatedSortedArray_33\SearchInRotatedSortedArray_33.csproj", "{8EF9EF2F-704A-4492-9864-EBD79A551D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +98,18 @@ Global
 		{C3E11168-510F-4E24-B627-DB0E09E7AFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E11168-510F-4E24-B627-DB0E09E7AFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E11168-510F-4E24-B627-DB0E09E7AFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC0ED64-25E0-4CA9-8E5E-08D160B77D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC0ED64-25E0-4CA9-8E5E-08D160B77D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC0ED64-25E0-4CA9-8E5E-08D160B77D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC0ED64-25E0-4CA9-8E5E-08D160B77D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3371A742-6F54-44CF-8948-BE454C8A475E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3371A742-6F54-44CF-8948-BE454C8A475E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3371A742-6F54-44CF-8948-BE454C8A475E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3371A742-6F54-44CF-8948-BE454C8A475E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF9EF2F-704A-4492-9864-EBD79A551D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF9EF2F-704A-4492-9864-EBD79A551D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF9EF2F-704A-4492-9864-EBD79A551D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF9EF2F-704A-4492-9864-EBD79A551D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
