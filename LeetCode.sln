@@ -58,9 +58,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion_278", "Easy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern_290", "Easy\WordPattern_290\WordPattern_290.csproj", "{D4B0F53E-9764-4A1B-9421-27392C945FA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfFour_342", "Easy\PowerOfFour_342\PowerOfFour_342.csproj", "{04E50D37-7E01-42B3-AD82-11A0BDB425E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerOfFour_342", "Easy\PowerOfFour_342\PowerOfFour_342.csproj", "{04E50D37-7E01-42B3-AD82-11A0BDB425E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowels_345", "Easy\ReverseVowels_345\ReverseVowels_345.csproj", "{5D3FC0D5-9A84-4DE6-80B1-5A1A2780E278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseVowels_345", "Easy\ReverseVowels_345\ReverseVowels_345.csproj", "{5D3FC0D5-9A84-4DE6-80B1-5A1A2780E278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray_53", "Medium\MaximumSubarray_53\MaximumSubarray_53.csproj", "{EF0D3BDB-D79D-4808-BDEB-5701EFC475FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -176,6 +178,10 @@ Global
 		{5D3FC0D5-9A84-4DE6-80B1-5A1A2780E278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D3FC0D5-9A84-4DE6-80B1-5A1A2780E278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D3FC0D5-9A84-4DE6-80B1-5A1A2780E278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0D3BDB-D79D-4808-BDEB-5701EFC475FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0D3BDB-D79D-4808-BDEB-5701EFC475FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0D3BDB-D79D-4808-BDEB-5701EFC475FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0D3BDB-D79D-4808-BDEB-5701EFC475FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
