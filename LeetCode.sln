@@ -66,7 +66,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray_53", "Mediu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3SumClosest_16", "Medium\3SumClosest_16\3SumClosest_16.csproj", "{96B7B9A1-7D81-4E86-9901-DBEBAC55EAD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache_146", "Medium\LRUCache_146\LRUCache_146.csproj", "{96F1D696-2910-451F-8517-EC13FD855BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRUCache_146", "Medium\LRUCache_146\LRUCache_146.csproj", "{96F1D696-2910-451F-8517-EC13FD855BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle_168", "Easy\ExcelSheetColumnTitle_168\ExcelSheetColumnTitle_168.csproj", "{FAB08954-A089-4F72-BABC-3D9180E2DB13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -194,6 +196,10 @@ Global
 		{96F1D696-2910-451F-8517-EC13FD855BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F1D696-2910-451F-8517-EC13FD855BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F1D696-2910-451F-8517-EC13FD855BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB08954-A089-4F72-BABC-3D9180E2DB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB08954-A089-4F72-BABC-3D9180E2DB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB08954-A089-4F72-BABC-3D9180E2DB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB08954-A089-4F72-BABC-3D9180E2DB13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
