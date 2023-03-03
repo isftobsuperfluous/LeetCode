@@ -70,9 +70,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRUCache_146", "Medium\LRUC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSheetColumnTitle_168", "Easy\ExcelSheetColumnTitle_168\ExcelSheetColumnTitle_168.csproj", "{FAB08954-A089-4F72-BABC-3D9180E2DB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQueryImmutable_303", "Easy\RangeSumQueryImmutable_303\RangeSumQueryImmutable_303.csproj", "{F3995606-1AF2-4575-A255-AF3E17A8ECD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeSumQueryImmutable_303", "Easy\RangeSumQueryImmutable_303\RangeSumQueryImmutable_303.csproj", "{F3995606-1AF2-4575-A255-AF3E17A8ECD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays_349", "Easy\IntersectionOfTwoArrays_349\IntersectionOfTwoArrays_349.csproj", "{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfTwoArrays_349", "Easy\IntersectionOfTwoArrays_349\IntersectionOfTwoArrays_349.csproj", "{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal_144", "Easy\BinaryTreePreorderTraversal_144\BinaryTreePreorderTraversal_144.csproj", "{BC501DC5-B789-4CE3-AB11-C52555C45D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePostorderTraversal_145", "Easy\BinaryTreePostorderTraversal_145\BinaryTreePostorderTraversal_145.csproj", "{D3D8EE1E-4A42-4332-88F8-937054E916F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigzagConversion_6", "Medium\ZigzagConversion_6\ZigzagConversion_6.csproj", "{FA4B2020-99E4-40B2-96C9-4C8843DBB167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors_75", "Medium\SortColors_75\SortColors_75.csproj", "{ACB5981F-75AC-4562-A29A-C5B28012EBDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -212,6 +220,22 @@ Global
 		{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC501DC5-B789-4CE3-AB11-C52555C45D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC501DC5-B789-4CE3-AB11-C52555C45D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC501DC5-B789-4CE3-AB11-C52555C45D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC501DC5-B789-4CE3-AB11-C52555C45D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D8EE1E-4A42-4332-88F8-937054E916F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D8EE1E-4A42-4332-88F8-937054E916F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D8EE1E-4A42-4332-88F8-937054E916F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D8EE1E-4A42-4332-88F8-937054E916F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4B2020-99E4-40B2-96C9-4C8843DBB167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4B2020-99E4-40B2-96C9-4C8843DBB167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4B2020-99E4-40B2-96C9-4C8843DBB167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4B2020-99E4-40B2-96C9-4C8843DBB167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
