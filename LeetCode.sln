@@ -74,13 +74,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeSumQueryImmutable_303"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfTwoArrays_349", "Easy\IntersectionOfTwoArrays_349\IntersectionOfTwoArrays_349.csproj", "{B01397E0-7DB1-4BD7-A9C4-6FC50414ACCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal_144", "Easy\BinaryTreePreorderTraversal_144\BinaryTreePreorderTraversal_144.csproj", "{BC501DC5-B789-4CE3-AB11-C52555C45D73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePreorderTraversal_144", "Easy\BinaryTreePreorderTraversal_144\BinaryTreePreorderTraversal_144.csproj", "{BC501DC5-B789-4CE3-AB11-C52555C45D73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePostorderTraversal_145", "Easy\BinaryTreePostorderTraversal_145\BinaryTreePostorderTraversal_145.csproj", "{D3D8EE1E-4A42-4332-88F8-937054E916F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePostorderTraversal_145", "Easy\BinaryTreePostorderTraversal_145\BinaryTreePostorderTraversal_145.csproj", "{D3D8EE1E-4A42-4332-88F8-937054E916F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigzagConversion_6", "Medium\ZigzagConversion_6\ZigzagConversion_6.csproj", "{FA4B2020-99E4-40B2-96C9-4C8843DBB167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigzagConversion_6", "Medium\ZigzagConversion_6\ZigzagConversion_6.csproj", "{FA4B2020-99E4-40B2-96C9-4C8843DBB167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors_75", "Medium\SortColors_75\SortColors_75.csproj", "{ACB5981F-75AC-4562-A29A-C5B28012EBDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortColors_75", "Medium\SortColors_75\SortColors_75.csproj", "{ACB5981F-75AC-4562-A29A-C5B28012EBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements_203", "Easy\RemoveLinkedListElements_203\RemoveLinkedListElements_203.csproj", "{37550B56-18AE-4CE6-8FEA-A58B4F3DF36D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -236,6 +238,10 @@ Global
 		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB5981F-75AC-4562-A29A-C5B28012EBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37550B56-18AE-4CE6-8FEA-A58B4F3DF36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37550B56-18AE-4CE6-8FEA-A58B4F3DF36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37550B56-18AE-4CE6-8FEA-A58B4F3DF36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37550B56-18AE-4CE6-8FEA-A58B4F3DF36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
