@@ -6,11 +6,6 @@
 //input.next.next.next.next.next = new ListNode(5);
 //input.next.next.next.next.next.next = new ListNode(6);
 
-
-// [7,7,7,7] val = 7
-// [0, 7,7,7,7]
-// 0 -> вторая 7
-// current -> вторая семь
 var input = new ListNode(7);
 input.next = new ListNode(7);
 input.next.next = new ListNode(7);
